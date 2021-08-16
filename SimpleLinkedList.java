@@ -20,7 +20,7 @@ public class SimpleLinkedList {
 		System.out.println("The linked list is "+linkedlistexample);
 		
 		//let's check while element is in the 1st index
-		System.out.println("The head is "+linkedlistexample.get(1)); 
+		System.out.println("The head is "+linkedlistexample.get(0)); 
 		//54 is the 1st index, which is known as head.
 		
 	}
